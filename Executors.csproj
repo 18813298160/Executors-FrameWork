@@ -112,6 +112,8 @@
     <Compile Include="Assets\Executors Framework\ImmediateExecutor.cs" />
     <Compile Include="Assets\Executors Framework\SingleThreadExecutor.cs" />
     <Compile Include="Assets\Executors Framework\WorkItem.cs" />
+    <Compile Include="Assets\Net\NetStream.cs" />
+    <Compile Include="Assets\Net\SocketMgr.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
