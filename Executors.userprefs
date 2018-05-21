@@ -1,13 +1,9 @@
 ﻿<Properties StartupConfiguration="{A62927C7-23ED-B888-69E0-154F50E1ECAA}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Executors Framework/ExecuteTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Net/Test.cs">
     <Files>
-      <File FileName="Assets/Executors Framework/ExecuteTest.cs" Line="3" Column="34" />
-      <File FileName="Assets/Executors Framework/Future.cs" Line="18" Column="5" />
-      <File FileName="Assets/Executors Framework/ICallable.cs" Line="9" Column="40" />
-      <File FileName="Assets/Executors Framework/IExecutor.cs" Line="10" Column="5" />
-      <File FileName="Assets/Executors Framework/ImmediateExecutor.cs" Line="9" Column="16" />
-      <File FileName="Assets/Executors Framework/SingleThreadExecutor.cs" Line="11" Column="16" />
-      <File FileName="Assets/Executors Framework/WorkItem.cs" Line="10" Column="16" />
+      <File FileName="Assets/Net/SocketMgr.cs" Line="69" Column="26" />
+      <File FileName="Assets/Net/Test.cs" Line="22" Column="83" />
+      <File FileName="Assets/Net/NetStream.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
